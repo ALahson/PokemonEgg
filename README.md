@@ -1,5 +1,3 @@
-# PokemonEgg
-
 # Pokemon Eggs (Android)
 
 An offline Android game (Jetpack Compose + Room) inspired by your Flask "Pokemon Eggs" app.

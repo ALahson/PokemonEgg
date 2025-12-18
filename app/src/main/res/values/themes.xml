@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Minimal base theme required only to launch the Activity -->
+    <style name="Theme.PokemonEggs" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Intentionally empty: Compose handles UI theming -->
+    </style>
+
+</resources>
